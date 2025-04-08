@@ -35,17 +35,6 @@
 ### ☁️ **AWS Glue + Snowpark ETL**  
 🧊 Serverless data pipeline using AWS Glue + Snowpark to transform and clean data in Snowflake.  
 📈 Designed to be cloud-native and performance optimized.
-
----
-
-## 📈 GitHub Highlights
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mahima0099&theme=radical&hide_border=false)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahima0099&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahima0099&layout=compact&theme=radical)
-
 ---
 
 ## 🌱 Currently Learning
